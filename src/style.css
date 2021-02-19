@@ -1,0 +1,27 @@
+.img-carrossel {
+    object-fit: cover;
+    object-position: 0 80%;
+    height: 400px;
+}
+
+.fonte-pacifica {
+    font-family: 'Pacifico', cursive;
+}
+
+.color-special {
+    color:darkred!important;
+}
+
+.background-special {
+    background: darkred;
+    color:white
+}
+
+.border-special {
+    border-color: darkred;
+}
+
+.img-receitas {
+    object-fit: cover;
+    height: 200px;
+}
